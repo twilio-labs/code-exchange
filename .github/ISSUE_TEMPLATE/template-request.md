@@ -13,7 +13,7 @@ A clear and concise description of what your use case is. Ex. I'm trying to do [
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
 
-**Specify the preferred programming language/environmeent:**
+**Specify the preferred programming language/environment:**
 [e.g. Node.js or Twilio Functions]
 
 **Additional requirements/dependencies:**
