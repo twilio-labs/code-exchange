@@ -1,6 +1,6 @@
 ---
 name: Template Submission
-about: Submit a template to be added to the Twilio Code Exchange
+about: Submit a template to be added to the Twilio CodeExchange
 title: "[Template Submission]"
 labels: template-submission
 assignees: ''
@@ -12,6 +12,7 @@ Please explain what use case this template is solving. If this is another progra
 
 **What's the programming language?**
 What programming language is primarily used for this template? If there's a front-end and back-end component, please list the back-end language.
+
 > For any Twilio Function templates please submit them via a pull request to github.com/twilio-labs/function-templates
 [e.g. Node.js]
 
