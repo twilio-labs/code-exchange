@@ -1,6 +1,6 @@
-# Twilio Code Exchange
+# Twilio CodeExchange
 
-The [Twilio Code Exchange](https://twilio.com/code-exchange) is a cental hub for developers to find template applications that get them started on solving particular use cases. You can find all templates by visiting twilio.com/code-exchange.
+The [Twilio CodeExchange](https://twilio.com/code-exchange) is a cental hub for developers to find template applications that get them started on solving particular use cases. You can find all templates by visiting [twilio.com/code-exchange](https://www.twilio.com/code-exchange).
 
 This repository serves a place for you to:
 1. File bugs with respect to either template applications or the general website
@@ -11,7 +11,7 @@ This repository serves a place for you to:
 
 ## Contributing
 
-All templates on the Code Exchange welcome contributions. In order to contribute to one, please head over to the project for the respective template and check out their `README.md` and `CONTRIBUTING.md` to learn how to get started.
+All templates on the CodeExchange welcome contributions. In order to contribute to one, please head over to the project for the respective template and check out their `README.md` and `CONTRIBUTING.md` to learn how to get started.
 
 If you want to contribute your own template application, please read the [guidelines](guidelines/) for your respective programming language and build your application in accordance to those. 
 
