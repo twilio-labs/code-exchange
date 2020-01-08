@@ -15,6 +15,9 @@ What programming language is primarily used for this template? If there's a fron
 > For any Twilio Function templates please submit them via a pull request to github.com/twilio-labs/function-templates
 [e.g. Node.js]
 
+**Template GitHub URL:**
+Please list the GitHub URL of your project. e.g. github.com/twilio-labs/sample-appointment-reminders-node
+
 **Author Information (please fill out):**
  - Author name (or organization if submitted on behalf of a company): [e.g. Twilio]
  - Author GitHub organization/user: [e.g. github.com/twilio]
