@@ -1,6 +1,6 @@
 # Twilio CodeExchange
 
-The [Twilio CodeExchange](https://twilio.com/code-exchange) is a cental hub for developers to find template applications that get them started on solving particular use cases. You can find all templates by visiting [twilio.com/code-exchange](https://www.twilio.com/code-exchange).
+The [Twilio CodeExchange](https://twilio.com/code-exchange) is a central hub for developers to find template applications that get them started on solving particular use cases. You can find all templates by visiting [twilio.com/code-exchange](https://www.twilio.com/code-exchange).
 
 This repository serves a place for you to:
 1. File bugs with respect to either template applications or the general website
