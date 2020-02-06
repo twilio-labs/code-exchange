@@ -4,11 +4,11 @@ The purpose of this checklist is to assess the state of this repository, and bri
 
 ### Documentation
 
-- [ ] Twilio [LICENSE](https://github.com/twilio-labs/code-exchange/blob/master/LICENSE) exists
+- [ ] Twilio [LICENSE](https://github.com/twilio-labs/code-exchange/blob/master/LICENSE) exists in repository
 
-- [ ] [Code of Conduct](https://github.com/twilio-labs/.github/blob/master/CODE_OF_CONDUCT.md) exists
+- [ ] [Code of Conduct](https://github.com/twilio-labs/.github/blob/master/CODE_OF_CONDUCT.md) exists in repository
 
-- [ ] [CONTRIBUTING](https://github.com/twilio-labs/.github/blob/master/CONTRIBUTING.md) exists 
+- [ ] [CONTRIBUTING](https://github.com/twilio-labs/.github/blob/master/CONTRIBUTING.md) exists in repository 
 
 - [ ] No broken links in README.md
 
