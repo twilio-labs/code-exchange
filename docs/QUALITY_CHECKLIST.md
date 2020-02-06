@@ -44,7 +44,7 @@ The purpose of this checklist is to assess the state of this repository, and bri
 
 - [ ] Confirmed sample behaves as expected (after dependencies have been updated)
 
-- [ ] This file, QUALITY_CHECKLIST.md, exists in repository
+- [ ] This file has been copied into a wiki entry for the respective repository or added as a GitHub issue
 
 ### General
 
