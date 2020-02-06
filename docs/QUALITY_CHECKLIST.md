@@ -12,7 +12,7 @@ The purpose of this checklist is to assess the state of this repository, and bri
 
 - [ ] No broken links in README.md
 
-- [ ] GitHub Actions build status exists at top of README.md
+- [ ] Build status exists at top of README.md
 
 - [ ] Set up steps are complete and accurate
 
@@ -24,7 +24,7 @@ The purpose of this checklist is to assess the state of this repository, and bri
 
 - [ ] Dependabot automerge set up
 
-- [ ] Migrated from TravisCI to GitHub Actions
+- [ ] Uses GitHub Actions (required for Twilio sample) or other CI
 
 ### Code
 
