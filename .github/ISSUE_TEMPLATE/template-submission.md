@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Important**:
+Please make sure to first read and sign the agreement at [ahoy.twilio.com/code-exchange-community](https://ahoy.twilio.com/code-exchange-community) before proceeding here.
+
 **What's the use case for the template?**
 Please explain what use case this template is solving. If this is another programming language implementation for an existing use case, please copy the link here.
 
@@ -22,14 +25,15 @@ Please list the GitHub URL of your project. e.g. github.com/twilio-labs/sample-a
 **Author Information (please fill out):**
  - Author name (or organization if submitted on behalf of a company): [e.g. Twilio]
  - Author GitHub organization/user: [e.g. github.com/twilio]
- - Contact email (for follow up questions): [e.g. open-source@twilio.com]
+ - GitHub username you used to sign [the Agreement](https://ahoy.twilio.com/code-exchange-community). 
 
 **Additional dependencies:**
 Please list any external dependencies for services, tools or similar this project has.
 
 **Checklist:**
 > Please check every part of this checklist for us to process your request. You can do this by marking them with `[x]` instead of `[ ]`.
+- [ ] I've filled out the form at [ahoy.twilio.com/code-exchange-community](https://ahoy.twilio.com/code-exchange-community)
 - [ ] I've read and followed the [contribution guidelines](https://github.com/twilio-labs/.github/blob/master/CONTRIBUTING.md)
-- [ ] I've read and implemented my template according to the respective [coding guidelines](https://github.com/twilio-labs/code-exchange/tree/master/guidelines) for my project
+- [ ] I've read Twilio's [best practices coding guidelines](https://github.com/twilio-labs/code-exchange/tree/master/guidelines) for my project
 - [ ] I agree and adhere to the [Code of Conduct](https://github.com/twilio-labs/.github/blob/master/CODE_OF_CONDUCT.md)
 - [ ] The template has been authored by me / or my organization and will be kept up-to-date. If the template will not longer be maintained, I'll notify this project.
