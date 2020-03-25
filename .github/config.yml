@@ -1,0 +1,17 @@
+newIssueWelcomeComment: |
+  Thank you so much for opening your first issue in this project! We'll try to get back to it as quickly as possible. While you are waiting...here's a random picture of a corgi (powered by [dog.ceo](https://dog.ceo))
+
+  ![picture of dog](https://images.dog.ceo/breeds/corgi-cardigan/n02113186_6608.jpg)
+
+firstPRMergeComment: >
+  Congratulations to your first contribution!
+
+  If you are on the look out for more ways to contribute to open-source,
+  check out a list of some of our repositories at https://github.com/twilio/opensource.
+
+  To stay up-to-date with Twilio open source related updates, sign up here: https://twil.io/oss-updates
+
+  And if you love Twilio as much as we do, make sure to check out our
+  [Twilio Champions program](https://www.twilio.com/champions)!
+
+  ![picture of a happy corgi looking at the camera](https://images.dog.ceo/breeds/corgi-cardigan/n02113186_4902.jpg)
