@@ -1,10 +1,12 @@
 The purpose of this checklist is to assess the state of this repository, and bring it to an acceptable level for long-term support by completing the tasks listed below.
 
+**This checklist is used internally but can be used as a guidance for others**
+
 > Please check every part of this checklist for us to process your request. You can do this by marking them with [x] instead of [ ].
 
 ### Documentation
 
-- [ ] Twilio [LICENSE](https://github.com/twilio-labs/code-exchange/blob/master/LICENSE) exists in repository
+- [ ] `LICENSE` file exists in repository
 
 - [ ] [Code of Conduct](https://github.com/twilio-labs/.github/blob/master/CODE_OF_CONDUCT.md) exists in repository
 
@@ -47,6 +49,8 @@ The purpose of this checklist is to assess the state of this repository, and bri
 - [ ] This file has been copied into a wiki entry for the respective repository or added as a GitHub issue
 
 ### General
+
+- [ ] App is released under a permissive license like MIT or Apache-2
 
 - [ ] I've read and followed the contribution guidelines
 
