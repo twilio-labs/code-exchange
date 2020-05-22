@@ -9,9 +9,6 @@ assignees: 'dkundel'
 **Important**:
 Please make sure to first read and sign the agreement at [ahoy.twilio.com/code-exchange-community](https://ahoy.twilio.com/code-exchange-community) before proceeding here.
 
-**IMPORTANT HACKATHON INFO**:
-If you are filling this out because you want to submit to the ongoing hackathon with DEV.to, please make sure you post on dev.to using this template: https://dev.to/new/twiliohackathon. Creating an issue in this project is independent of the hackathon and does not automatically qualify you for the hackathon.
-
 **What's the use case for the template?**
 Please explain what use case this template is solving. If this is another programming language implementation for an existing use case, please copy the link here.
 
