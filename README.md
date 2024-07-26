@@ -1,6 +1,6 @@
-# ![Twilio CodeExchange](assets/code-exchange-banner.jpg)
+# ![Twilio Code Exchange](assets/code-exchange-banner.jpg)
 
-The [Twilio CodeExchange][codeexchange] is a central hub for developers to find sample applications that get them started on solving particular use cases. You can find all samples by visiting the [Twilio CodeExchange page][codeexchange].
+The [Twilio Code Exchange][codeexchange] is a central hub for developers to find sample applications that get them started on solving particular use cases. You can find all samples by visiting the [Twilio Code Exchange page][codeexchange].
 
 ## About this repo
 
@@ -8,31 +8,31 @@ This repository serves a place for you to:
 
 1. File bugs with respect to either template applications or the general website
 2. Request new templates for use cases
-3. Submit a request to have your own app added to [CodeExchange][codeexchange]
+3. Submit a request to have your own app added to [Code Exchange][codeexchange]
 4. Learn about the [coding guidelines][guidelines] we use for our respective applications
 5. Give general feedback
 
-## Contributing to CodeExchange
+## Contributing to Code Exchange
 
-We built [CodeExchange] for the community and want to allow you all to be a part of it.
+We built [Code Exchange] for the community and want to allow you all to be a part of it.
 
-There are different ways you can contribute to CodeExchange:
+There are different ways you can contribute to Code Exchange:
 
 ### 1. Contribute functionality or fix issues for existing applications
 
-Every sample you find on [CodeExchange] is open-source and welcomes contributions. Click the `View on GitHub` button on the respective sample and you'll be redirect to the respective repository.
+Every sample you find on [Code Exchange] is open-source and welcomes contributions. Click the `View on GitHub` button on the respective sample and you'll be redirect to the respective repository.
 
 From there make sure to inspect the `README.md`, `CONTRIBUTING.md` (if available) and any open issues before you get started.
 
 ### 2. Contribute to Twilio Function templates
 
-Some of the samples on [CodeExchange] are samples written for [Twilio Functions](https://www.twilio.com/runtime/build) a serverless JavaScript environment that's part of the [Twilio Runtime](https://www.twilio.com/runtime). You can identify these samples by their `Host on Twilio` label.
+Some of the samples on [Code Exchange] are samples written for [Twilio Functions](https://www.twilio.com/runtime/build) a serverless JavaScript environment that's part of the [Twilio Runtime](https://www.twilio.com/runtime). You can identify these samples by their `Host on Twilio` label.
 
 All of these samples are hosted in one single repository called [twilio-labs/function-templates](https://github.com/twilio-labs/function-templates). Check out the project's [`CONTRIBUTING.md`](https://github.com/twilio-labs/function-templates/blob/master/docs/CONTRIBUTING.md) for concrete ways to contribute to that project.
 
-### 3. Add your own application to CodeExchange
+### 3. Add your own application to Code Exchange
 
-If you already have an application or are planning to build an application that you'd like us to feature on [CodeExchange], please follow the following steps.
+If you already have an application or are planning to build an application that you'd like us to feature on [Code Exchange], please follow the following steps.
 
 #### Step 0 [optional]:
 
@@ -40,7 +40,7 @@ If you haven't yet, this is a good place to start working on your application co
 
 #### Step 1:
 
-Head over to our [CodeExchange Community Program page][community] and review our [Twilio CodeExchange Community Program Agreement][agreement]. Once you've reviewed it, make sure you [fill out our form][community].
+Head over to our [Code Exchange Community Program page][community] and review our [Twilio Code Exchange Community Program Agreement][agreement]. Once you've reviewed it, make sure you [fill out our form][community].
 
 #### Step 2:
 
@@ -50,7 +50,7 @@ Take a look at our [coding guidelines][guidelines]. While adhering to every poin
 
 Once you are ready to submit your application, [create a new issue][newissue] and choose `Template Submission`. Fill out the form that is pre-populated and submit your issue.
 
-After that we'll try to get back to you as soon as possible with any questions we might have or the link to your application on [CodeExchange].
+After that we'll try to get back to you as soon as possible with any questions we might have or the link to your application on [Code Exchange].
 
 ### 4. File issues with existing applications
 
